@@ -1,4 +1,6 @@
 # Capes
 Notebooks pour le Capes Interne
-Notebook analyse : algorithmes d'analyse (en seconde).
-Notebook boucles : introduction très simple aux boucles Python.
+
+Notebook Analyse : algorithmes d'analyse (en seconde).
+
+Notebook Boucles : introduction très simple aux boucles Python.
